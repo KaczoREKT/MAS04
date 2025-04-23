@@ -1,7 +1,6 @@
-package dynamic;
+package DziedziczenieDynamiczne;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Osoba {
     protected String imie;

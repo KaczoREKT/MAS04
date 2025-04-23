@@ -1,4 +1,4 @@
-package klasaAbstrakcyjna;
+package DziedziczenieAbstrakcyjne;
 
 public class __Main__ {
     public static void main(String[] args) {

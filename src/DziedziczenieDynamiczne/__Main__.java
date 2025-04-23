@@ -1,4 +1,4 @@
-package dynamic;
+package DziedziczenieDynamiczne;
 
 import java.time.LocalDate;
 

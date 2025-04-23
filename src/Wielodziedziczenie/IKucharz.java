@@ -1,4 +1,4 @@
-package wielodziedziczenie;
+package Wielodziedziczenie;
 
 public interface IKucharz {
     int getLiczbaPosilkow();

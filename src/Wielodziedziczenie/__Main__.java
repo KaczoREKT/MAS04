@@ -1,4 +1,4 @@
-package wielodziedziczenie;
+package Wielodziedziczenie;
 
 public class __Main__ {
     public static void main(String[] args) {

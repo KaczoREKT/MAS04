@@ -1,7 +1,6 @@
-package overlapping;
+package DziedziczenieOverlapping;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class __Main__ {
     public static void main(String[] args) {

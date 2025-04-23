@@ -1,4 +1,4 @@
-package wieloaspektowe;
+package DziedziczenieWieloaspektowe;
 
 public class Uzywany extends Stan {
     private String opisZuzycia;

@@ -1,4 +1,4 @@
-package klasaAbstrakcyjna;
+package DziedziczenieAbstrakcyjne;
 
 public abstract class Instrument {
     private final String nazwa;

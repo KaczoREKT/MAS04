@@ -1,4 +1,4 @@
-package wieloaspektowe;
+package DziedziczenieWieloaspektowe;
 
 public class Kuchnia extends Ksiazka {
     private String typKuchni;

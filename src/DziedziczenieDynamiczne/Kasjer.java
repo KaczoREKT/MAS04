@@ -1,6 +1,4 @@
-package dynamic;
-
-import java.util.Date;
+package DziedziczenieDynamiczne;
 
 public class Kasjer extends Osoba {
     private float wyplata;

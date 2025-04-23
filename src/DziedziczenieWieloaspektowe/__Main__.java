@@ -1,4 +1,4 @@
-package wieloaspektowe;
+package DziedziczenieWieloaspektowe;
 
 import java.time.LocalDate;
 import java.util.Objects;

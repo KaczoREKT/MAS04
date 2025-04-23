@@ -1,4 +1,4 @@
-package wieloaspektowe;
+package DziedziczenieWieloaspektowe;
 
 
 public abstract class Ksiazka {

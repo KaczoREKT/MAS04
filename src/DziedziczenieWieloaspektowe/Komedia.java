@@ -1,4 +1,4 @@
-package wieloaspektowe;
+package DziedziczenieWieloaspektowe;
 
 public class Komedia extends Ksiazka {
     private int poziomSmiesznosci;

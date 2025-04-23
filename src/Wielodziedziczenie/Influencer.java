@@ -1,4 +1,4 @@
-package wielodziedziczenie;
+package Wielodziedziczenie;
 
 public class Influencer extends Osoba{
     private String nazwa;

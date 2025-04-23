@@ -1,4 +1,4 @@
-package overlapping;
+package DziedziczenieOverlapping;
 
 public enum OsobaStanowisko {
     KUCHARZ,

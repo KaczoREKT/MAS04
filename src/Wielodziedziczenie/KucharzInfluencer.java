@@ -1,4 +1,4 @@
-package wielodziedziczenie;
+package Wielodziedziczenie;
 
 public class KucharzInfluencer extends Influencer implements IKucharz {
     private Kucharz kucharz;

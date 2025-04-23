@@ -1,4 +1,4 @@
-package wielodziedziczenie;
+package Wielodziedziczenie;
 
 public class Kucharz extends Osoba implements IKucharz {
     private int liczbaPosilkow;

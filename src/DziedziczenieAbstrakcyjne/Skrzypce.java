@@ -1,4 +1,4 @@
-package klasaAbstrakcyjna;
+package DziedziczenieAbstrakcyjne;
 
 public class Skrzypce extends Instrument {
     public Skrzypce(String nazwa){
